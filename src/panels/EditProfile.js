@@ -21,7 +21,7 @@ const EditProfile = props => (
 				<Input />
 			</FormItem>
 			<FormItem top="Факультет">
-              	<Radio name="type">ФизФак</Radio>
+              	<Radio name="type">ФФ</Radio>
               	<Radio name="type">ФИТ</Radio>
             </FormItem>
 			<FormItem>
